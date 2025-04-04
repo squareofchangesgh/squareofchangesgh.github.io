@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://book.squareofchanges.net/sitemap.xml
