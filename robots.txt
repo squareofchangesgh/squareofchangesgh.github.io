@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://squareofchanges.net/sitemap.xml
+Sitemap: http://en.squareofchanges.net/sitemap.xml
